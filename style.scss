@@ -1,0 +1,16 @@
+.add-parameter-link, .remove-parameter-link {
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: .375rem .75rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: blue;
+    text-align: center;
+    white-space: nowrap;
+    z-index: 20;
+    margin-left: -80px;
+    cursor: pointer;
+}
